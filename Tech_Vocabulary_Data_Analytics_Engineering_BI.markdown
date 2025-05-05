@@ -1,6 +1,6 @@
 # Tech Vocabulary for Data Analytics, Engineering, and BI
 
-## with Colloquial Egyptian Arabic Descriptions
+## These is most frequent verbs, words and concepts in Data Field.
 
 
 
