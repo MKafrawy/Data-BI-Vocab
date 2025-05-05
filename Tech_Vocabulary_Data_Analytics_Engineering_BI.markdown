@@ -1,6 +1,6 @@
 # Tech Vocabulary for Data Analytics, Engineering, and BI
 
-## These is most frequent verbs, words and concepts in Data Field.
+## These are the most frequent verbs, words, and concepts in the Data Field.
 
 
 
